@@ -18,5 +18,5 @@ hold on;
 plot(data6.time,data6.voltage)
 legend('No Object, Sample 1: R2 2.26e4','No Object, Sample 2: R2 1.67e4','Object 1, Sample 1: R2 692','Object 1, Sample 2: R2 643','Object 2, Sample 1: R2 120','Object 2, Sample 2: R2 97.5')
 title('Figure 1. Calculate Resistance')
-xlabel('Elapsed Time (seconds)')
-ylabel('Voltage (V)')
+xlabel('Elapsed Time(seconds)')
+ylabe
